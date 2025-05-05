@@ -11,9 +11,9 @@ const PortfolioProduct = ({image}) => {
         className="w-fit h-fit object-cover transition-all duration-300 hover:opacity-50 hover:scale-110"
         alt="phone"
       />
-      <div className="link">
+      {/* <div className="link">
         <FaLink size={"45px"} />
-      </div>
+      </div> */}
     </div>
   );
 };
